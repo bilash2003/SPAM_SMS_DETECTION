@@ -86,11 +86,17 @@ You trained & compared the following:
 
 Model	Accuracy	Precision: 
 Multinomial Naive Bayes	⭐ Best	⭐ Best
+
 SVM (Sigmoid Kernel)	Good	High
+
 Logistic Regression	Good	Good
+
 KNN	Moderate	Low
+
 Decision Tree	Moderate	Low
+
 Random Forest	High	Good
+
 AdaBoost	Good	Good
 
 You also built:
@@ -177,12 +183,18 @@ Supported via Procfile.
 
 🛠 Technologies Used
 Programming Language: Python 3.x 
+
 Libraries
 Data Handling: numpy  pandas
+
 Visualization: matplotlib seaborn wordcloud
+
 NLP:  nltk stopwords PorterStemmer
+
 ML Models: scikit-learn CountVectorizer TfidfVectorizer
+
 Deep Learning: transformers torch datasets
+
 Deployment: streamlit
 
 📌 Future Improvements
